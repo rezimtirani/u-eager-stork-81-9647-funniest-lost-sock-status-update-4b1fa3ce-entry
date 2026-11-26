@@ -1,2 +1,7 @@
-# u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce-entry
-Funniest Lost Sock Status Update — make.fun entry
+# Funniest Lost Sock Status Update — make.fun entry
+
+[![make.fun · u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/rezimtirani/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/rezimtirani/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+
+One line from a lost sock, filed as a status update: it is missing, it was last seen eloping with the dryer lint, and it has started a new life behind the washing machine. The entry program writes that single line to `entry.txt` — 110 characters, inside the sealed gate of 1 to 120 characters from the kit's RULES.txt.
